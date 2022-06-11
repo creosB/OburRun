@@ -1,7 +1,7 @@
 # OburRun
 [![Artists Company](https://raw.githubusercontent.com/creosB/presentation/main/background.png)](https://artistscompany.tech/)
 ## Unreal Engine C++ kullanarak endless run yapımı için template oluşturdum.
-## I created a template for endless run construction using Unreal Engine C++.
+## I created a template for endless run template using Unreal Engine C++.
 
 [![sponsor](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/creos)
 

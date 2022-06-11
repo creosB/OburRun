@@ -33,6 +33,8 @@
 -  Made with Unreal Engine 5.0.2.
 ***
 
+[![game](https://static.itch.io/images/badge.svg)](https://artistscompany.itch.io/obur-run)
+
 # License
 ***
 ## Herhangi bir yerde paylaşmak, değişiklik yapmak için öncelikle bana ulaşınız. 

@@ -8,15 +8,15 @@
 # Özelikleri / Properties
 
 * İstediğiniz tipte toplanabilir nesne, yol eklenebilir.
-  Any type of collectible object, or road can be added.
+*  Any type of collectible object, or road can be added.
 * Spawner'a ait tüm ayarları projeye göre özelleştirilebilir.
-  All settings of Spawner can be customized according to the project.
+*  All settings of Spawner can be customized according to the project.
 * Main menu, pause ve dead screen bulunuyor.
-  Main menu, pause, and dead screen are available. 
+ * Main menu, pause, and dead screen are available. 
 * Projede bulunan tüm ayarları configuration dosyasından değiştirilebilir.
-  All settings in the project can be changed from the configuration file.
+ * All settings in the project can be changed from the configuration file.
 * Arayüz animasyonları özelleştirilebilir olarak yazılmış ve kullanılmıştır.
-  Interface animations are made and used as customizable.
+ * Interface animations are made and used as customizable.
 ***
 
 # Görseller / Pictures
@@ -28,9 +28,9 @@
 ***
 # Bilmeniz gerekenler / What you need to know
 - ConfigurationDataStruct.h dosyasından oyun ayarlarını değiştirebilirsiniz.
-You can change the game settings from the ConfigurationDataStruct.h file.
+- You can change the game settings from the ConfigurationDataStruct.h file.
 - Unreal Engine 5.0.2 ile yapılmıştır.
-  Made with Unreal Engine 5.0.2.
+-  Made with Unreal Engine 5.0.2.
 ***
 
 # License

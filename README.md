@@ -20,10 +20,10 @@
 ***
 
 # Görseller / Pictures
-![pics](https://raw.githubusercontent.com/creosB/OburRun/main/pics/resim1.png?token=GHSAT0AAAAAABTZR5KPXV6LGHBFDGADHHTCYVE34XQ)
-![pics](https://raw.githubusercontent.com/creosB/OburRun/main/pics/resim2.png?token=GHSAT0AAAAAABTZR5KPX47PIS5UJJAHSYNGYVE35KA)
-![pics](https://raw.githubusercontent.com/creosB/OburRun/main/pics/resim3.png?token=GHSAT0AAAAAABTZR5KOXEGNPTSWOUXJLCEMYVE35NQ)
-![pics](https://raw.githubusercontent.com/creosB/OburRun/main/pics/resim4.png?token=GHSAT0AAAAAABTZR5KOCHW3OKYZRG5E3WC4YVE35TA)
+![pics](https://raw.githubusercontent.com/creosB/OburRun/main/pics/resim1.png)
+![pics](https://raw.githubusercontent.com/creosB/OburRun/main/pics/resim2.png)
+![pics](https://raw.githubusercontent.com/creosB/OburRun/main/pics/resim3.png)
+![pics](https://raw.githubusercontent.com/creosB/OburRun/main/pics/resim4.png)
 
 ***
 # Bilmeniz gerekenler / What you need to know
